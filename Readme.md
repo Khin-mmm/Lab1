@@ -15,4 +15,4 @@ After modification, use
 ```
 The color of errors is `rgb(0,0,0)`
 This is my GitHub username : [Khin-mmm](https://github.com/Khin-mmm).
-[click here to reach HelloWorld.py](HelloWorld.py)
+[click here to reach HelloWorld.py](/HelloWorld.py)

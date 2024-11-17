@@ -5,7 +5,7 @@
 I am a <ins> ***CAT***</ins>
 > I am a quoting text
 
-***`git branch` is the git command that is used to either check the list of branch or create beanch***
+`git branch` ***is the git command that is used to either check the list of branch or create beanch***
 
 After modification, use
 ```git add 
